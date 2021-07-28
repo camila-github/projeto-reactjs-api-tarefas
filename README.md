@@ -17,7 +17,7 @@
 - Execute inicialmente o servidor do json-server para ativar a api (db.json) que esta local no projeto. Utilize o comando dentro do diretorio onde esta o arquivo db.json: `json-server --watch db.json`
 - Depois rode a aplicação (Front-End), acesse a pasta raiz e execute `npm start` para iniciar servidor do Reactjs. Detalhe: por padrão o react abre o site na porta 3000 do localhost, caso o json-server estiver utilizando essa mesma porta, o react irá questionar se deseja abrir o site em outra porta, confirme com Y (Sim), para que o react possa abrir o site em uma porta diferente, no meu caso foi na porta 3001.
 
-## Links de Referencias:
+#### LINKS DE REFERENCIA:
 
 - React Icons
 [https://react-icons.github.io/react-icons/](https://react-icons.github.io/react-icons/)
